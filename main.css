@@ -2,9 +2,9 @@
 .first{display: flex;
     flex-direction: row;
     justify-content: space-between;
-background-color: rgb(228, 247, 253);
-margin-left: 15%;
-margin-right: 15%; }
+    background-color: rgb(228, 247, 253);
+    margin-left: 15%;
+    margin-right: 15%; }
 .second{background: repeating-linear-gradient(rgb(76, 212, 128), rgb(53, 129, 230));}
 .four{
     margin-left: 5%;
